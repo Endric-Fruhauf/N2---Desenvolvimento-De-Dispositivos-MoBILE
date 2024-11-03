@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915534778046",
+    "project_id": "listaexercicios-778be",
+    "storage_bucket": "listaexercicios-778be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915534778046:android:ee1781a6f3f6321aead8ef",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHHABPV4SXkZg6FsZpU5t72NRvfBluLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
