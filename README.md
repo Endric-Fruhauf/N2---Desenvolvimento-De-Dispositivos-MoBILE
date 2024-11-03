@@ -15,7 +15,11 @@ A Forma como ficou organizado :
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Paleta de cores:
 Para a paleta de cores queria algo que tivesse cores relacionadas a musculação (principalmente o vermelho), e uma cor para indicar os exercicios concluidos ( como o verde por exemplo). 
-Com base nisso a paleta de cores que escolhi foi a do seguinte link:
+Com base nisso a paleta de cores que escolhi foi a do seguinte a seguinte:
+
+![image](https://github.com/user-attachments/assets/d69c7c27-75f6-4f53-b17e-d07288e1149c)
+
+podendo ser acessada no seguinte Link:
 https://paletadecores.com/paleta/ccf390/e0e05a/f7c41f/fc930a/ff003d/
 
 usei 3 cores dessa paleta, sendo elas:
