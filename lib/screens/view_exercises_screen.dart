@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'data/database.dart';
+import '../data/database.dart';
 
 class ViewExercisesScreen extends StatelessWidget {
   final DatabaseMethods databaseMethods = DatabaseMethods();

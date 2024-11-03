@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-import '../data/database.dart';
+import '../../data/database.dart';
 
 class AddExerciseScreen extends StatefulWidget {
   const AddExerciseScreen({super.key});
-
   @override
   _AddExerciseScreenState createState() => _AddExerciseScreenState();
 }

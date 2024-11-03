@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../data/database.dart';
+import '../../data/database.dart';
 
 class EditExistingExerciseScreen extends StatelessWidget {
   final DatabaseMethods databaseMethods = DatabaseMethods();

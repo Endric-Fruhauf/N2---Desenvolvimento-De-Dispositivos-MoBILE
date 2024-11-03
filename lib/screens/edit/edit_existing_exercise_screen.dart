@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import '../data/database.dart';
+import '../../data/database.dart';
 import 'add_exercise_screen.dart'; // Certifique-se de importar a tela correta
 
 class EditExistingExerciseScreen extends StatelessWidget {
